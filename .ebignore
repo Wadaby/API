@@ -1,0 +1,10 @@
+.git/ 
+.venv/ 
+AppData/ 
+AppData/Local/ 
+AppData/Local/* 
+AppData/Local/Application Data/ 
+AppData/Local/Application Data/* 
+*.pyc 
+__pycache__/ 
+NTUSER.DAT 
